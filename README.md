@@ -15,7 +15,7 @@ Alloy UI <br/>
 Bootstrap<br/>
 D3 <br/>
 Datatables<br/>
-Firebase <be />
+Firebase <br />
 Font Awesome<br/>
 Google Fonts<br/>
 Handlebar <br/>
